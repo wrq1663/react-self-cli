@@ -13,6 +13,7 @@
     "@types/fs-extra": "^9.0.13",
     "@types/inquirer": "^8.2.1",
     "@types/node": "^18.0.0",
+    "@types/which": "^2.0.1",
     "typescript": "^4.7.4"
   },
   "dependencies": {
@@ -21,7 +22,8 @@
     "fs-extra": "^10.0.0",
     "inquirer": "^8.2.0",
     "ora": "^5.4.1",
-    "tinify": "^1.6.1"
+    "tinify": "^1.6.1",
+    "which": "^2.0.2"
   },
   "keywords": [
     "react",
